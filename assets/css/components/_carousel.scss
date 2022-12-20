@@ -1,0 +1,14 @@
+.carousel-item {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.bd-placeholder-img {
+    // display: none;
+    opacity: 0.4;
+
+    > * {
+        fill: black;
+    }
+}
